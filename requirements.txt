@@ -14,6 +14,6 @@ matplotlib
 seaborn
 deap
 plotly
-tzlocal==
+tzlocal
 pandas_ta
 
